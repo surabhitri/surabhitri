@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Surabhi Trivedi
-- 👀 I’m interested in data science and public policy
+- 👀 I’m interested in data science, public policy and social impact with data science
 - 🌱 I’m currently a data science graduate student at Duke University
 
 <!---
