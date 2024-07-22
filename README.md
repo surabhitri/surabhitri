@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Surabhi Trivedi
-- 👀 I’m interested in data science, public policy and social impact with data science
-- 🌱 I’m currently a data science graduate student at Duke University
+- 👀 I’m interested in machine learning, NLP, GenAI, and LLMs.
+- 🎓 I graduated with a masters in Data Science from Duke University.
+- 👩🏽‍💻 I currently work as a data scientist with the Law School at Duke University and specialize in NLP and GenAI.
 
 <!---
 surabhitri/surabhitri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
